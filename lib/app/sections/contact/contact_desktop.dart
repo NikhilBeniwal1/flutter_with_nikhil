@@ -9,7 +9,7 @@ import 'package:mysite/core/util/constants.dart';
 import 'package:sizer/sizer.dart';
 
 class ContactDesktop extends StatelessWidget {
-  const ContactDesktop({Key? key}) : super(key: key);
+  const ContactDesktop({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -42,29 +42,32 @@ class ContactDesktop extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(
-                          contactHeadding,
-                          style: TextStyle(
-                            height: 1.2,
-                            fontSize: 8.sp,
-                            fontWeight: FontWeight.w600,
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            contactHeadding,
+                            style: TextStyle(
+                              height: 1.2,
+                              fontSize: 8.sp,
+                              fontWeight: FontWeight.w600,
+                            ),
                           ),
-                        ),
 
-                        Space.y(1.w)!,
-                        Text(
-                          contactSubHeadding,
-                          style: const TextStyle(
-                            fontSize: 16,
-                            fontWeight: FontWeight.w100,
+                          Space.y(1.w)!,
+                          Text(
+                            contactSubHeadding,
+                            style: const TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.w100,
+                            ),
+                            softWrap: true,
                           ),
-                        ),
-                        Space.y(2.w)!,
-                        // SizedBox(height: AppDimensions.space(3)),
-                      ],
+                          Space.y(2.w)!,
+                          // SizedBox(height: AppDimensions.space(3)),
+                        ],
+                      ),
                     ),
                     InkWell(
                       onTap: () => openURL(whatsapp),
@@ -93,6 +96,7 @@ class ContactDesktop extends StatelessWidget {
                 Wrap(
                     alignment: WrapAlignment.center,
                     runSpacing: 50,
+                    spacing: 20,
                     children: contactUtils
                         .asMap()
                         .entries

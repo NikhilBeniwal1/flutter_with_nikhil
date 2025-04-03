@@ -37,51 +37,36 @@ class _ServiceCardState extends State<_ServiceCard> {
           borderRadius: BorderRadius.circular(15),
           boxShadow: isHover ? [primaryColorShadow] : [blackColorShadow],
         ),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Image.asset(
-              widget.service.icon,
-              height: 100,
-            ),
-            Space.y(2.w)!,
-            Text(widget.service.name,
+        child: IntrinsicHeight(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Image.asset(
+                widget.service.icon,
+                height: 100,
+              ),
+              Space.y(2.w)!,
+              Text(widget.service.name,
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: isHover ? whiteColor : theme.textColor,
+                    fontSize: 30,
+                  )),
+              Space.y(1.w)!,
+              Text(
+                widget.service.description,
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  color: isHover ? whiteColor : theme.textColor,
-                  fontSize: 30,
-                )),
-            Space.y(1.w)!,
-            Text(
-              widget.service.description,
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                color: isHover ? whiteColor.withOpacity(0.8) : theme.textColor,
-                fontWeight: FontWeight.w200,
-                fontSize: 14,
+                  color:
+                      isHover ? whiteColor.withOpacity(0.8) : theme.textColor,
+                  fontWeight: FontWeight.w200,
+                  fontSize: 14,
+                ),
               ),
-            ),
-            Space.y(2.w)!,
-            if (Responsive.isDesktop(context))
-              Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: widget.service.tool
-                      .map((e) => Row(
-                            children: [
-                              const Text('🛠   '),
-                              Text(e,
-                                  style: TextStyle(
-                                    color:
-                                        isHover ? whiteColor : theme.textColor,
-                                  )),
-                            ],
-                          ))
-                      .toList()),
-            if (Responsive.isMobile(context) || Responsive.isTablet(context))
-              Expanded(
-                child: ListView(
-                    padding: EdgeInsets.zero,
-                    shrinkWrap: true,
+              Space.y(2.w)!,
+              if (Responsive.isDesktop(context))
+                Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
                     children: widget.service.tool
                         .map((e) => Row(
                               children: [
@@ -95,8 +80,27 @@ class _ServiceCardState extends State<_ServiceCard> {
                               ],
                             ))
                         .toList()),
-              )
-          ],
+              // if (Responsive.isMobile(context) || Responsive.isTablet(context))
+              //   Expanded(
+              //     child: ListView(
+              //         padding: EdgeInsets.zero,
+              //         shrinkWrap: true,
+              //         children: widget.service.tool
+              //             .map((e) => Row(
+              //                   children: [
+              //                     const Text('🛠   '),
+              //                     Text(e,
+              //                         style: TextStyle(
+              //                           color: isHover
+              //                               ? whiteColor
+              //                               : theme.textColor,
+              //                         )),
+              //                   ],
+              //                 ))
+              //             .toList()),
+              // )
+            ],
+          ),
         ),
       ),
     );

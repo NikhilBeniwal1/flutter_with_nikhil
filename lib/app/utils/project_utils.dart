@@ -18,7 +18,7 @@ List<ProjectUtils> projectUtils = [
     banners: 'assets/imgs/Budgeit.png',
     icons: 'assets/imgs/flutter.png',
     titles: "Budgeit - Budget Tracker App.",
-    description: 'Budgeit : Split income into customizable categories needs , expenses and savings.',
+    description: 'Budgeit : Split income into customizable categories',
     links: 'https://github.com/AnmolSaini28/budgeit',
   ),
   ProjectUtils(

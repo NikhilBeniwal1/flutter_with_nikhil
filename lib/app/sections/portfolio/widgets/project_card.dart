@@ -61,7 +61,7 @@ class ProjectCardState extends State<ProjectCard> {
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: isHover ? whiteColor : theme.textColor,
-                      fontSize: 24,
+                      fontSize: 22,
                     ),
                     textAlign: TextAlign.center,
                   ),
@@ -71,7 +71,7 @@ class ProjectCardState extends State<ProjectCard> {
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: isHover ? whiteColor : theme.textColor,
-                      fontSize: 17,
+                      fontSize: 16,
                     ),
                   ),
                   SizedBox(height: height * 0.01),
