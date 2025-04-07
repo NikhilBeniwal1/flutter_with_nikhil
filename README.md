@@ -40,9 +40,6 @@ Hi! I'm **Anmol Saini**, a passionate developer focused on crafting beautiful an
 ### 💻 Desktop View
 ![Desktop Screenshot](assets/imgs/desktop.png)
 
-### 📱 Mobile View
-![Mobile Screenshot](assets/imgs/mobile.png)
-
 ---
 
 ## ⚙️ How to Run Locally
