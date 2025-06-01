@@ -15,14 +15,14 @@
       "title": "Meet Me AT",
       "description": "Meet Nearby like mind people at nearby spot",
       "image": "assets/images/meetmeat.png",
-      "link": "https://github.com/NikhilBeniwal1/wallpaper_app_using_api"
+      "link": "https://play.google.com/store/apps/details?id=com.meetmeat"
     }
   ,
     {
       "title": "Property Management App",
       "description": "Manage properties with tenants using Firebase backend.",
       "image": "assets/images/property_app.png",
-      "link": "https://play.google.com/store/apps/details?id=com.manageproperty.tenant"
+      "link": "https://play.google.com/store/apps/details?id=com.manageproperty.landlord"
     }
   ],
   "contact": {
