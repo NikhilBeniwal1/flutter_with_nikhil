@@ -1,0 +1,34 @@
+{
+  "name": "Nikhil Beniwal",
+  "tagline": "Flutter Developer | Firebase | REST APIs",
+  "photoUrl": "assets/images/an.jpg",
+  "about": "I am a freelance Flutter developer with expertise in REST APIs, Firebase, and in-app purchases.",
+  "skills": ["Flutter", "Firebase", "REST API", "In-App Purchase", "Provider", "MobX","bloc"],
+  "projects": [
+    {
+      "title": "Random Chat App",
+      "description": "Chat app using Firebase with in-app purchases and notifications.",
+      "image": "assets/images/random_chat.png",
+      "link": "https://play.google.com/store/apps/details?id=com.flutterwithnikhil.random_chat"
+    },
+    {
+      "title": "Meet Me AT",
+      "description": "Meet Nearby like mind people at nearby spot",
+      "image": "assets/images/meetmeat.png",
+      "link": "https://github.com/NikhilBeniwal1/wallpaper_app_using_api"
+    }
+  ,
+    {
+      "title": "Property Management App",
+      "description": "Manage properties with tenants using Firebase backend.",
+      "image": "assets/images/property_app.png",
+      "link": "https://play.google.com/store/apps/details?id=com.manageproperty.tenant"
+    }
+  ],
+  "contact": {
+    "email": "FlutterWithNikhil@gmail.com",
+    "phone": "+91 8053587957",
+    "github": "https://github.com/NikhilBeniwal1",
+    "linkedin": "https://www.linkedin.com/in/nikhil-beniwal-9758aa214"
+  }
+}

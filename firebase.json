@@ -1,10 +1,1 @@
-{
-  "hosting": {
-    "public": "build/web",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
-  }
-}
+{"hosting":{"public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"]},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"flutter-with-nikhil","configurations":{"web":"1:137184254415:web:3c5952e17af24859f89aba"}}}}}}
