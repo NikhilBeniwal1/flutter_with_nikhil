@@ -13,24 +13,48 @@ class ServicesUtils {
 
 List<ServicesUtils> servicesUtils = [
   ServicesUtils(
-    name: 'CHEGG Inc.',
-    icon: 'assets/imgs/chegg.png',
+    name: 'Meet Me At',
+    icon: 'assets/icons/meetmeat_icon.png',
     description:
-        "Solving problems related to Data Structures and Algorithms, OOPS, OS, and DBMS.",
-    tool: ['Data Structures and Algorithms', 'OOPS and OS', 'DBMS'],
+    "Location-based networking app to connect users nearby. Integrated with Firebase, real-time geolocation, AdMob rewards, and Firestore.",
+    tool: ['Flutter', 'Firebase', 'Geolocation', 'AdMob',],
   ),
   ServicesUtils(
-    name: 'Canyfix',
-    icon: 'assets/imgs/canyfix.png',
+    name: 'Ludo Win Ai',
+    icon: 'assets/imgs/ludo_ai.png',
     description:
-        "Building a mobile repair booking app using Dart, Flutter, and integrating REST APIs.",
-    tool: ['Dart', 'Flutter', 'REST APIs'],
+    "An offline Ludo app using AI to predict the best token move based on smart scoring and risk evaluation.",
+    tool: ['Flutter', 'AI Evaluator', 'Game Logic', 'Offline Mode'],
   ),
+  // ServicesUtils(
+  //   name: 'Random Chat App',
+  //   icon: 'assets/imgs/random_chat.png',
+  //   description:
+  //   "Real-time anonymous chat application using Firebase Auth, Firestore, and state management.",
+  //   tool: ['Flutter', 'Firebase Auth', 'Firestore', 'State Management'],
+  // ),
   ServicesUtils(
-    name: 'Food-Pe',
-    icon: 'assets/imgs/foodpe.jpg',
+    name: 'Manage Property - Kewi Solutionary',
+    icon: 'assets/imgs/kewi_logo.png', // 🔁 Add your Kewi logo here
     description:
-        "Building a food delivery mobile app with Flutter, Dart, and integrating REST APIs.",
-    tool: ['Dart', 'Flutter', 'REST APIs'],
+    "Developed the 'Manage Property' mobile app at Kewi Solutionary. Focused on rental listings, tenant-landlord issue tracking, and document management using Flutter, MobX, and REST APIs.",
+    tool: ['Flutter', 'Dart', 'REST APIs', 'MobX', 'Provider'],
   ),
+/*
+  ServicesUtils(
+    name: 'Manage Property',
+    icon: 'assets/imgs/manage_property_icon.png',
+    description: "Managing rental properties, complaints, and leases through a Flutter-based mobile app integrated with REST APIs.",
+    tool: ['Flutter', 'Dart', 'REST APIs'],
+  ),*/
+
+  /*
+  ServicesUtils(
+    name: 'Flutter With Nikhil',
+    icon: 'assets/imgs/youtube.png',
+    description:
+    "Educational content on Flutter development, Firebase integration, and monetization strategies via YouTube.",
+    tool: ['YouTube', 'Flutter', 'Firebase', 'Monetization'],
+  ),*/
 ];
+

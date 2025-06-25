@@ -37,7 +37,7 @@ class ImageWidget extends StatelessWidget {
           image: const DecorationImage(
             fit: BoxFit.cover,
             alignment: Alignment.bottomLeft,
-            image: AssetImage('assets/imgs/profile.jpg'),
+            image: AssetImage('assets/imgs/profile.png'),
           ),
         ),
       ),

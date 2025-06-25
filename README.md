@@ -1,4 +1,4 @@
-# 🌐 Anmol Saini – Personal Portfolio Website
+# 🌐 Nikhil Beniwal – Personal Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and experience in app development and design. It's fully responsive, cleanly structured, and built using modern cross platform web technologies.
 
@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Anmol Saini**, a passionate developer focused on crafting beautiful and functional app experiences. This portfolio serves as a central hub for my projects, blogs, resume, and contact information.
+Hi! I'm ** Nikhil Beniwal**, a passionate developer focused on crafting beautiful and functional app experiences. This portfolio serves as a central hub for my projects, blogs, resume, and contact information.
 
 ---
 
@@ -49,7 +49,7 @@ Hi! I'm **Anmol Saini**, a passionate developer focused on crafting beautiful an
 git clone https://github.com/AnmolSaini28/Anmol-Portfolio.git
 
 # Navigate into the directory
-cd Anmol-Portfolio
+cd Nikhil Beniwal-Portfolio
 
 # Install dependencies
 flutter pub get
