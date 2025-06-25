@@ -1,58 +1,16 @@
-# 🌐 Anmol Saini – Personal Portfolio Website
+# flutter_with_nikhil
 
-Welcome to my personal portfolio website! This project showcases my work, skills, and experience in app development and design. It's fully responsive, cleanly structured, and built using modern cross platform web technologies.
+A new Flutter project.
 
-## 🔗 Live Demo
+## Getting Started
 
-[View Live Site](https://anmolsaini28.github.io/Anmol-Portfolio/)
+This project is a starting point for a Flutter application.
 
----
+A few resources to get you started if this is your first Flutter project:
 
-## 👨‍💻 About Me
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Hi! I'm **Anmol Saini**, a passionate developer focused on crafting beautiful and functional app experiences. This portfolio serves as a central hub for my projects, blogs, resume, and contact information.
-
----
-
-## 🚀 Tech Stack
-
-- **Frontend**: [Dart / Flutter]
-- **Styling**: [Flutter Widgets / Animations]
-- **Backend**: [Node.js / Firebase]
-- **Deployment**: [GitHub Pages]
-
----
-
-## ✨ Features
-
-- ✅ Fully Responsive Layout
-- ✅ Light/Dark Mode Toggle
-- ✅ Smooth Scroll & Scroll Animations
-- ✅ Interactive Contact Form
-- ✅ Project Showcase Section
-- ✅ Resume Download Option
-- ✅ SEO Optimized
-
----
-
-## 📸 Screenshots
-
-### 💻 Desktop View
-![Desktop Screenshot](assets/imgs/desktop.png)
-
----
-
-## ⚙️ How to Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/AnmolSaini28/Anmol-Portfolio.git
-
-# Navigate into the directory
-cd Anmol-Portfolio
-
-# Install dependencies
-flutter pub get
-
-# Run the development server
-flutter run
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
