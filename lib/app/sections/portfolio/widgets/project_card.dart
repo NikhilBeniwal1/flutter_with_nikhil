@@ -90,7 +90,7 @@ class ProjectCardState extends State<ProjectCard> {
                     image: AssetImage(
                       widget.project.banners,
                     ),
-                    fit: BoxFit.cover,
+                    fit: BoxFit.fill,
                   ),
                 ),
               ),

@@ -67257,7 +67257,7 @@ $S:433}
 A.tn.prototype={
 a7(){return new A.JX()}}
 A.JX.prototype={
-H(a){var s,r,q,p,o,n=null,m="Hey, I\u2019m Anmol Saini, a Mobile App Developer with a passion for building smooth, high-performance apps. I love solving problems, optimizing UI, and bringing ideas to life.\nI\u2019m currently pursuing a B.Tech in Information Technology from Dr. A.P.J Abdul Kalam Technical University, sharpening my skills in Flutter, Firebase, Java , Springboot , MySql and Data Structures & Algorithms. I\u2019ve worked with startups, teams, and freelance clients, helping them create user-friendly and scalable applications.\nWhether it\u2019s developing a new app or fixing tricky UI bugs, I\u2019m always up for a challenge. Let\u2019s build something great together! \ud83d\ude80",l=A.b3(a,n,t.w).w.a.a,k=A.a1(a),j=l>1024,i=l/10,h=l<1024?40:100
+H(a){var s,r,q,p,o,n=null,m="Hey, I\u2019m Nikhil Beniwal, a Mobile App Developer with a passion for building smooth, high-performance apps. I love solving problems, optimizing UI, and bringing ideas to life.\nI\u2019m currently pursuing a B.Tech in Information Technology from Dr. A.P.J Abdul Kalam Technical University, sharpening my skills in Flutter, Firebase, Java , Springboot , MySql and Data Structures & Algorithms. I\u2019ve worked with startups, teams, and freelance clients, helping them create user-friendly and scalable applications.\nWhether it\u2019s developing a new app or fixing tricky UI bugs, I\u2019m always up for a challenge. Let\u2019s build something great together! \ud83d\ude80",l=A.b3(a,n,t.w).w.a.a,k=A.a1(a),j=l>1024,i=l/10,h=l<1024?40:100
 h=new A.au(i,0,i,0).kR(h)
 i=A.bj(n,$.aL.L()/100,n)
 s=t.p
@@ -67328,7 +67328,7 @@ $S:0}
 A.Fs.prototype={
 H(a){return B.Hu}}
 A.Fq.prototype={
-H(a){var s=null,r=A.a1(a),q=$.jW.L(),p=10*$.aL.L()/100,o=$.jW.L(),n=$.aL.L(),m=t.p,l=A.ek(A.b([A.bG("Hi there, Welcome to My Space  ",s,B.LK,s),new A.ia(A.pN("assets/gif/hi.gif",B.V,s,40,s,s),B.d4,B.cj,B.i,s)],m),B.bk,B.L,B.bW),k=A.bj(s,0.5*$.aL.L()/100,s),j=A.bG("I'm Anmol Saini,",s,B.LL,s),i=A.ek(A.b([B.NK,A.ahI($.au4(),!0,!0)],m),B.bk,B.L,B.N),h=A.bj(s,1.5*$.aL.L()/100,s),g=$.aL.L(),f=A.mf(a,20),e=r.ax.a===B.w?B.Y:B.a0
+H(a){var s=null,r=A.a1(a),q=$.jW.L(),p=10*$.aL.L()/100,o=$.jW.L(),n=$.aL.L(),m=t.p,l=A.ek(A.b([A.bG("Hi there, Welcome to My Space  ",s,B.LK,s),new A.ia(A.pN("assets/gif/hi.gif",B.V,s,40,s,s),B.d4,B.cj,B.i,s)],m),B.bk,B.L,B.bW),k=A.bj(s,0.5*$.aL.L()/100,s),j=A.bG("I'm Nikhil Beniwal,",s,B.LL,s),i=A.ek(A.b([B.NK,A.ahI($.au4(),!0,!0)],m),B.bk,B.L,B.N),h=A.bj(s,1.5*$.aL.L()/100,s),g=$.aL.L(),f=A.mf(a,20),e=r.ax.a===B.w?B.Y:B.a0
 return A.bj(new A.bY(new A.au(p,0,p,0),A.ek(A.b([A.bR(s,A.dJ(A.b([l,k,j,i,h,new A.bY(new A.au(0,0,10*g/100,0),A.bG(u.K,s,A.c7(s,s,A.ai(153,e.gl(0)>>>16&255,e.gl(0)>>>8&255,e.gl(0)&255),s,s,s,s,s,s,s,s,f,s,s,B.y,s,s,!0,s,s,s,s,s,s,s,s),s),s),A.bj(s,3*$.aL.L()/100,s),new A.mD("download cv",new A.Y4(),s)],m),B.av,B.L,B.bW),B.n,s,s,s,s,s,new A.au(0,10*o/100,0,0),s,s,s,55*n/100),B.wD],m),B.Q,B.dr,B.N),s),80*q/100,s)}}
 A.Y4.prototype={
 $0(){var s=window
@@ -67339,7 +67339,7 @@ A.Fr.prototype={
 H(a){var s,r=null,q=$.aL.L(),p=$.jW.L(),o=$.aL.L(),n=$.ahK
 n.toString
 s=t.p
-return new A.bY(new A.au(10*q/100,10*p/100,10*o/100,0),A.dJ(A.b([A.ek(A.b([A.bG("Hi there, Welcome to My Space  ",r,n.fE(A.mf(a,16)),r),A.pN("assets/gif/hi.gif",B.V,r,10*($.aL.L()/3)/100,r,r)],s),B.Q,B.L,B.bW),A.bG("I'm Anmol Saini,",r,A.c7(r,r,r,r,r,r,r,r,r,r,r,A.mf(a,28),r,r,B.bJ,r,r,!0,r,r,r,r,r,r,r,r),r),A.bj(r,$.aL.L()/100,r),A.ek(A.b([A.bG("A ",r,A.c7(r,r,r,r,r,r,r,r,r,r,r,A.mf(a,18),r,r,B.y,r,r,!0,r,r,r,r,r,r,r,r),r),A.ahI($.au5(),!0,!0)],s),B.bk,B.L,B.N),A.bj(r,2*$.aL.L()/100,r),A.ek(A.b([new A.mD("download cv",new A.Y5(),r),B.kD],s),B.Q,B.dr,B.N)],s),B.av,B.L,B.N),r)}}
+return new A.bY(new A.au(10*q/100,10*p/100,10*o/100,0),A.dJ(A.b([A.ek(A.b([A.bG("Hi there, Welcome to My Space  ",r,n.fE(A.mf(a,16)),r),A.pN("assets/gif/hi.gif",B.V,r,10*($.aL.L()/3)/100,r,r)],s),B.Q,B.L,B.bW),A.bG("I'm Nikhil Beniwal,",r,A.c7(r,r,r,r,r,r,r,r,r,r,r,A.mf(a,28),r,r,B.bJ,r,r,!0,r,r,r,r,r,r,r,r),r),A.bj(r,$.aL.L()/100,r),A.ek(A.b([A.bG("A ",r,A.c7(r,r,r,r,r,r,r,r,r,r,r,A.mf(a,18),r,r,B.y,r,r,!0,r,r,r,r,r,r,r,r),r),A.ahI($.au5(),!0,!0)],s),B.bk,B.L,B.N),A.bj(r,2*$.aL.L()/100,r),A.ek(A.b([new A.mD("download cv",new A.Y5(),r),B.kD],s),B.Q,B.dr,B.N)],s),B.av,B.L,B.N),r)}}
 A.Y5.prototype={
 $0(){var s=window
 s.toString
@@ -67355,7 +67355,7 @@ q.toString
 p=t.p
 q=A.ek(A.b([A.bG("Hi there, Welcome to My Space  ",h,q.fE(A.mf(a,18)),h),new A.ia(A.pN("assets/gif/hi.gif",B.V,h,10*($.aL.L()/3)/100,h,h),B.d4,B.cj,B.i,h)],p),B.Q,B.L,B.bW)
 o=A.bj(h,$.aL.L()/100,h)
-n=A.bG("I'm Anmol Saini,",h,A.c7(h,h,h,h,h,h,h,h,h,h,h,A.mf(a,38),h,h,B.bJ,h,h,!0,h,h,h,h,h,h,h,h),h)
+n=A.bG("I'm Nikhil Beniwal,",h,A.c7(h,h,h,h,h,h,h,h,h,h,h,A.mf(a,38),h,h,B.bJ,h,h,!0,h,h,h,h,h,h,h,h),h)
 m=A.ek(A.b([A.bG("A ",h,A.c7(h,h,h,h,h,h,h,h,h,h,h,A.mf(a,24),h,h,B.y,h,h,!0,h,h,h,h,h,h,h,h),h),A.ahI($.aua(),!0,!1)],p),B.Q,B.L,B.N)
 l=A.bj(h,1.5*$.aL.L()/100,h)
 k=$.aL.L()
@@ -67789,7 +67789,7 @@ $S:0}
 A.Gz.prototype={
 H(a){var s,r=null,q=A.a1(a).ax.a===B.w?B.Y:B.a0,p=t.w,o=A.c7(r,r,q,r,r,r,r,r,r,r,r,A.b3(a,r,p).w.a.a>=1024?32:20,r,r,B.ck,r,r,!0,r,r,r,r,r,r,r,r)
 q=A.bG("< ",r,o,r)
-s=A.bG("Anmol",r,o,r)
+s=A.bG("Nikhil Beniwal",r,o,r)
 return A.ek(A.b([q,s,A.bG(A.b3(a,r,p).w.a.a>=1024?" />\t\t":" />",r,o,r)],t.p),B.Q,B.L,B.bW)}}
 A.ia.prototype={
 a7(){return new A.ER(null,null)}}
@@ -73857,7 +73857,7 @@ B.NE=new A.fZ(" \xa9 2025",null,null,null,null,null)
 B.NF=new A.fZ("\ud83d\udee0   ",null,null,null,null,null)
 B.L2=new A.q(!0,B.h2,null,null,null,null,18,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.wn=new A.fZ("Get Started",null,B.L2,null,null,null)
-B.NG=new A.fZ(" Anmol Saini \ud83d\udc99",null,B.wl,null,null,null)
+B.NG=new A.fZ(" Nikhil Beniwal \ud83d\udc99",null,B.wl,null,null,null)
 B.NJ=new A.fZ("Developed by ",null,null,null,null,null)
 B.LO=new A.q(!0,null,null,null,null,null,32,B.y,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NK=new A.fZ("A ",null,B.LO,null,null,null)

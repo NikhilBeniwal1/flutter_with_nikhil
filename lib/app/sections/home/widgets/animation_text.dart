@@ -11,7 +11,13 @@ List<TyperAnimatedText> desktopList = [
       textStyle: AppText.h2!.copyWith(fontSize: 32)),
   TyperAnimatedText(animationtxt3,
       speed: const Duration(milliseconds: 50),
-      textStyle: AppText.h2!.copyWith(fontSize: 32))
+      textStyle: AppText.h2!.copyWith(fontSize: 32)),
+  TyperAnimatedText(animationtxt4,
+      speed: const Duration(milliseconds: 50),
+      textStyle: AppText.h2!.copyWith(fontSize: 32)),
+  TyperAnimatedText(animationtxt5,
+      speed: const Duration(milliseconds: 50),
+      textStyle: AppText.h2!.copyWith(fontSize: 32)),
 ];
 
 List<TyperAnimatedText> tabList = [
