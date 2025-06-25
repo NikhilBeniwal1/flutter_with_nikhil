@@ -28,7 +28,7 @@ class MySite extends StatelessWidget {
           return Sizer(builder: (context, orientation, deviceType) {
             return MaterialApp(
               debugShowCheckedModeBanner: false,
-              title: 'Nikhil',
+              title: 'Flutter With Nikhil | Flutter Developer Portfolio',
               theme: AppTheme.themeData(state.isDarkThemeOn, context),
               initialRoute: "/",
               routes: {"/": (context) => const NChecking()},
